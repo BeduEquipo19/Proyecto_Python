@@ -21,4 +21,4 @@ Este repositorio incluye el proyecto final del modulo 2:**procesamiento de datos
 ## VIDEO FINAL    
 [ENLACE A VIDEO](https://drive.google.com/file/d/1ejLSgbdEBrnw2sYKN-JOvbdsOLd9nmVQ/view?usp=sharing)
 
-## **Nota**: El conjunto de datos con el que se trabajo se encuentra en la carpeta:  y tiene por nombre:
+## **Nota**: El conjunto de datos con el que se trabajo se encuentra en la carpeta: datasets_proyecto  y tiene por nombre:
