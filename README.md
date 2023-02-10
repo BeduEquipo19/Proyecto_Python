@@ -19,4 +19,4 @@ Este repositorio incluye el proyecto final del modulo 2:**procesamiento de datos
 [ENLACE A COLAB](https://colab.research.google.com/drive/1-9QS8zkWt9f2m9-k5OYGetHA_keocBPK#scrollTo=csNfEe7aHjdy)
 
 ## VIDEO FINAL    
-[ENLACE A VIDEO] (https://drive.google.com/drive/u/0/my-drive)
+[ENLACE A VIDEO](https://drive.google.com/drive/u/0/my-drive)
