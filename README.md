@@ -14,3 +14,8 @@ Este repositorio incluye el proyecto final del modulo 2:**procesamiento de datos
 👨‍💻 Gabriel Fernández
 
 👨‍🏫 David Flores
+
+## GOOGLE COLAB (https://colab.research.google.com/drive/1-9QS8zkWt9f2m9-k5OYGetHA_keocBPK#scrollTo=csNfEe7aHjdy)
+
+## VIDEO FINAL    
+[ENLACE A DRIVE] (https://drive.google.com/drive/u/0/my-drive)
