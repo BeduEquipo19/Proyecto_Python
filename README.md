@@ -11,7 +11,7 @@ Este repositorio incluye el proyecto final del modulo 2:**procesamiento de datos
 
 👩‍🔬 Nieves Arias
 
-👨‍💻 Gabriel Fernández
+👨‍💻 Daniel Soto
 
 👨‍🏫 David Flores
 
