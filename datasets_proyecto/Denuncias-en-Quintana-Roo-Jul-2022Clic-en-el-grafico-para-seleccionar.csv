@@ -1,0 +1,41 @@
+"Affected Legal Good ID","Affected Legal Good","Crime Type ID","Crime Type","Year","Quarter ID","Quarter","Month ID","Month","Value","Value Growth","Value Growth Value","percentage"
+1,"Patrimonio",101,"Abuso de Confianza",2022,20223,"2022-Q3",202207,"2022-07",257,0.015810276679841896,4,0.05943570767807586
+1,"Patrimonio",102,"Daño a la Propiedad",2022,20223,"2022-Q3",202207,"2022-07",491,0.3715083798882682,133,0.11355226641998149
+1,"Patrimonio",103,"Despojo",2022,20223,"2022-Q3",202207,"2022-07",60,-0.047619047619047616,-3,0.013876040703052728
+1,"Patrimonio",104,"Extorsión",2022,20223,"2022-Q3",202207,"2022-07",8,-0.5555555555555556,-10,0.0018501387604070306
+1,"Patrimonio",105,"Fraude",2022,20223,"2022-Q3",202207,"2022-07",26,1,26,0.006012950971322849
+1,"Patrimonio",106,"Robo",2022,20223,"2022-Q3",202207,"2022-07",1152,-0.12462006079027356,-164,0.2664199814986124
+1,"Patrimonio",107,"Otros Delitos contra el Patrimonio",2022,20223,"2022-Q3",202207,"2022-07",26,0.13043478260869565,3,0.006012950971322849
+2,"Familia",201,"Incumplimiento de Obligaciones de Asistencia Familiar",2022,20223,"2022-Q3",202207,"2022-07",32,-0.2727272727272727,-12,0.0074005550416281225
+2,"Familia",202,"Violencia de Género en Todas sus Modalidades Distinta a la Violencia Familiar",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+2,"Familia",203,"Violencia Familiar",2022,20223,"2022-Q3",202207,"2022-07",566,0.2412280701754386,110,0.13089731729879742
+2,"Familia",204,"Otros Delitos contra la Familia",2022,20223,"2022-Q3",202207,"2022-07",56,0.4,16,0.012950971322849213
+3,"Libertad y Seguridad Sexual",301,"Abuso Sexual",2022,20223,"2022-Q3",202207,"2022-07",92,0.05747126436781609,5,0.02127659574468085
+3,"Libertad y Seguridad Sexual",302,"Acoso Sexual",2022,20223,"2022-Q3",202207,"2022-07",17,-0.39285714285714285,-11,0.00393154486586494
+3,"Libertad y Seguridad Sexual",303,"Hostigamiento Sexual",2022,20223,"2022-Q3",202207,"2022-07",2,-0.3333333333333333,-1,0.00046253469010175765
+3,"Libertad y Seguridad Sexual",304,"Incesto",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+3,"Libertad y Seguridad Sexual",305,"Violación Equiparada",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+3,"Libertad y Seguridad Sexual",306,"Violación Simple",2022,20223,"2022-Q3",202207,"2022-07",75,0.20967741935483872,13,0.01734505087881591
+3,"Libertad y Seguridad Sexual",307,"Otros Delitos que Atentan contra la Libertad y la Seguridad Sexual",2022,20223,"2022-Q3",202207,"2022-07",41,0.28125,9,0.009481961147086031
+4,"Sociedad",401,"Corrupción de Menores",2022,20223,"2022-Q3",202207,"2022-07",13,0.08333333333333333,1,0.0030064754856614245
+4,"Sociedad",402,"Trata de Personas",2022,20223,"2022-Q3",202207,"2022-07",4,0.3333333333333333,1,0.0009250693802035153
+4,"Sociedad",403,"Otros Delitos contra la Sociedad",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+5,"Vida e Integridad Corporal",501,"Aborto",2022,20223,"2022-Q3",202207,"2022-07",1,1,1,0.00023126734505087883
+5,"Vida e Integridad Corporal",502,"Feminicidio",2022,20223,"2022-Q3",202207,"2022-07",0,-1,-1,0
+5,"Vida e Integridad Corporal",503,"Homicidio",2022,20223,"2022-Q3",202207,"2022-07",131,0.11965811965811966,14,0.030296022201665124
+5,"Vida e Integridad Corporal",504,"Lesiones",2022,20223,"2022-Q3",202207,"2022-07",384,0.16717325227963525,55,0.08880666049953746
+5,"Vida e Integridad Corporal",505,"Otros Delitos que Atentan contra la Vida y la Integridad Corporal",2022,20223,"2022-Q3",202207,"2022-07",34,1,34,0.00786308973172988
+6,"Libertad Personal",601,"Rapto",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+6,"Libertad Personal",602,"Secuestro",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+6,"Libertad Personal",603,"Tráfico de Menores",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+6,"Libertad Personal",604,"Otros Delitos que Atentan contra la Libertad Personal",2022,20223,"2022-Q3",202207,"2022-07",77,-0.02531645569620253,-2,0.017807585568917667
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",701,"Allanamiento de Morada",2022,20223,"2022-Q3",202207,"2022-07",23,0.09523809523809523,2,0.005319148936170213
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",702,"Amenazas",2022,20223,"2022-Q3",202207,"2022-07",292,0.28634361233480177,65,0.06753006475485661
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",703,"Contra el Medio Ambiente",2022,20223,"2022-Q3",202207,"2022-07",4,-0.3333333333333333,-2,0.0009250693802035153
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",704,"Delitos Cometidos por Servidores Públicos",2022,20223,"2022-Q3",202207,"2022-07",48,-0.25,-16,0.011100832562442183
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",705,"Electorales",2022,20223,"2022-Q3",202207,"2022-07",41,4.857142857142857,34,0.009481961147086031
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",706,"Evasión de Presos",2022,20223,"2022-Q3",202207,"2022-07",0,1,0,0
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",707,"Falsedad",2022,20223,"2022-Q3",202207,"2022-07",38,0.22580645161290322,7,0.008788159111933395
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",708,"Falsificación",2022,20223,"2022-Q3",202207,"2022-07",25,0.3157894736842105,6,0.00578168362627197
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",709,"Narcomenudeo",2022,20223,"2022-Q3",202207,"2022-07",186,1.1379310344827587,99,0.04301572617946346
+7,"Otros Bienes Jurídicos Afectados (Del Fuero Común)",710,"Otros Delitos del Fuero Común",2022,20223,"2022-Q3",202207,"2022-07",122,0.1619047619047619,17,0.028214616096207217
